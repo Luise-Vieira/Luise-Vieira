@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=555555&height=120&section=header"/>
 <h1>| Olá, bem-vindo! </h1>
 <h4 style="text-align: justify;">
-GitHub utilizado principalmente para repositórios acadêmicos da minha jornada de formação. Aqui eu salvo todos os trabalhos e atividades envolvendo programação, geralmente com repositórios separados por matéria. Além disso, alguns repositórios de projetos e estudos pessoais.
+Meu GitHub acompanha minha trajetória em Sistemas de Informação: repositórios acadêmicos, projetos pessoais e exercícios de programação, organizados por matéria e por etapa dos meus estudos.
 </h4>
 
 
